@@ -5,7 +5,7 @@ interface A{
 interface B extends A{
 
 }
-µ
+
 class C implements B{
 
     public void print() {
